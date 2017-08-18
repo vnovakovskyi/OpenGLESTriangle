@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-0.7.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/076933f8c579217743dc6c686e1b937af7c7bdee/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/076933f8c579217743dc6c686e1b937af7c7bdee/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz.iconics/library/0.7.3/b954c9b21ff735c82861e63fcb73b6b8bca02f7c/library-0.7.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

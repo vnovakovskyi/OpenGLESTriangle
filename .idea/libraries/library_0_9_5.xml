@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-0.9.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/29901c99c146bba15c943ed254b2141a70c7dd76/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/29901c99c146bba15c943ed254b2141a70c7dd76/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz.materialdrawer/library/0.9.5/995e8f9a4f81b169baa3454e7bf081f544b74f26/library-0.9.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

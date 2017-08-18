@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:5:5-77
+	android:glEsVersion
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:5:19-51
+	android:required
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:5:52-75
+application
+ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vadim/.android/build-cache/7ace2b816c3663119460e788e0fce2440cd564fc/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/vadim/.android/build-cache/e1e3a452b241ffbf174a707423f133061551dee3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/vadim/.android/build-cache/75d836f354d59985b0f62da0ad2c5ea8c221e2bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/vadim/.android/build-cache/aa98456c0304b53bb9271e344fc0bb87f5721273/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/vadim/.android/build-cache/2dc41a476228fcb5af1aa8dafd28d3152c413913/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/vadim/.android/build-cache/203bcd5f70e6d94a0bba9c672366c937daab71ee/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/vadim/.android/build-cache/e681fc3719840aad5e0cf79acececcf2d496a41e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/vadim/.android/build-cache/428c3f4a9a878042437e821854c679f5c67a4c56/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/vadim/.android/build-cache/1091291d987665dfa2bf4e3d64e249982d913ed3/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.vadim.openglestriangle.OpenGLES20Activity
+ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:14:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vadim/.android/build-cache/7ace2b816c3663119460e788e0fce2440cd564fc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz.materialdrawer:library:0.9.5] /home/vadim/.android/build-cache/29901c99c146bba15c943ed254b2141a70c7dd76/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz.iconics:library:0.7.3] /home/vadim/.android/build-cache/076933f8c579217743dc6c686e1b937af7c7bdee/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/vadim/.android/build-cache/e1e3a452b241ffbf174a707423f133061551dee3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/vadim/.android/build-cache/75d836f354d59985b0f62da0ad2c5ea8c221e2bc/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/vadim/.android/build-cache/aa98456c0304b53bb9271e344fc0bb87f5721273/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/vadim/.android/build-cache/2dc41a476228fcb5af1aa8dafd28d3152c413913/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/vadim/.android/build-cache/203bcd5f70e6d94a0bba9c672366c937daab71ee/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/vadim/.android/build-cache/e681fc3719840aad5e0cf79acececcf2d496a41e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/vadim/.android/build-cache/428c3f4a9a878042437e821854c679f5c67a4c56/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/vadim/.android/build-cache/1091291d987665dfa2bf4e3d64e249982d913ed3/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/vadim/.android/build-cache/e1e3a452b241ffbf174a707423f133061551dee3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/vadim/.android/build-cache/75d836f354d59985b0f62da0ad2c5ea8c221e2bc/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/vadim/.android/build-cache/aa98456c0304b53bb9271e344fc0bb87f5721273/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/vadim/.android/build-cache/2dc41a476228fcb5af1aa8dafd28d3152c413913/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/vadim/.android/build-cache/203bcd5f70e6d94a0bba9c672366c937daab71ee/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/vadim/.android/build-cache/e681fc3719840aad5e0cf79acececcf2d496a41e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/vadim/.android/build-cache/428c3f4a9a878042437e821854c679f5c67a4c56/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/vadim/.android/build-cache/1091291d987665dfa2bf4e3d64e249982d913ed3/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/vadim/AndroidStudioProjects/OpenGLESTriangle/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/vadim/.android/build-cache/b92f0de7b73d5900846e89aa0dfff4596fc87fd2/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
